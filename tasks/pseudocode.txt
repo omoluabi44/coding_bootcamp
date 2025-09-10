@@ -1,0 +1,6 @@
+
+
+if n is greater than 0:
+	its positive
+else if n is less than 0:
+	its negative 
